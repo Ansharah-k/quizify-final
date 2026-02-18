@@ -7,6 +7,10 @@
 > A fun and colorful programming quiz web app built with Python & Streamlit. Test your knowledge across 7 programming languages with a clean, friendly UI!
 
 ---
+## Live Demo
+- https://quizify-app.streamlit.app/
+
+---
 
 ## ✨ Features
 
@@ -112,4 +116,5 @@ This project is open source and available under the [MIT License](LICENSE).
 <div align="center">
   <sub>Built with ❤️ using Python & Streamlit</sub>
 </div>
+
 
