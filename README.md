@@ -102,14 +102,6 @@ http://localhost:8501
 | HTML | 🌐 |
 | Next.js | ▲ |
 
----
-
-## 👩‍💻 Developer
-
-**Ansharah**
-- GitHub: [@Ansharah-k](https://github.com/Ansharah-k)
-
----
 
 ## 📄 License
 
@@ -120,3 +112,4 @@ This project is open source and available under the [MIT License](LICENSE).
 <div align="center">
   <sub>Built with ❤️ using Python & Streamlit</sub>
 </div>
+
